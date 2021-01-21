@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"CiteBibtex",
+		"CppBuilder",
+		"Increment Selection",
+		"LaTeXTools",
+		"Package Control",
+		"Verilog",
+		"VHDL",
+		"WordCount"
+	]
+}

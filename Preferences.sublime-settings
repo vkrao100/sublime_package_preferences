@@ -1,0 +1,15 @@
+{
+	"added_words":
+	[
+		"Nullstellensatz",
+		"rectifiability",
+		"datapath"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"spell_check": true
+}
